@@ -156,7 +156,7 @@ trjabvat sluchajno Adobe True Type 1 fontove, prati mi
 syotvetnija si ttf font i she ti izpratja postscriptnite
 mu formati.
 
-###IT
+### IT
 -----------------------------------------------------------------------------------
 
 Ilya Talev
