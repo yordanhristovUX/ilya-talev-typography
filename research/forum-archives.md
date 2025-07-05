@@ -17,7 +17,8 @@
 Използва програма Fontographer  (може би се има предвид Macromedia Fontographer, a popular font editing program, had a version 4.1 released in 1996, which was its last update for a significant period)
 Споделя за втора програма за клавиатура на windows 3.1
 
-Post----------------------------------------------------------------------------
+Копиран пост
+----------------------------------------------------------------------------
 V momenta pravja fontove za Win95, iztochnicite sa ot bivshata
 Syvetska Akademija na Naukite. Njakoi ot tija shriftove sa
 naistina mnogo dobri. Imam njakyde kym 600 ekzempljara!!!
@@ -45,14 +46,14 @@ ta...@ibm.net
 
 
 
-##Име на темата: ping Ilya Talev.
+## Име на темата: ping Ilya Talev.
 Връзка: https://groups.google.com/g/soc.culture.bulgaria/c/Nv9s01HZ9eA/m/5JLL7TQmjmYJ
 
 В тази тема Ilya Тalev потвърждава, че е автор на шрифтовете показани на http://www.cyrillic.com/ref/cyrillic/fontlist.html (този сайт в момента не се отваря, но при отваряне чрез wayback machine показва списък с шривтове подписани от Ilya Talev)
 Вече се подписва като IT, този път от мейл: <talev@attglobal.net> 
 
 
-##Име на темата: 7 bits
+## Име на темата: 7 bits
 Връзка: https://groups.google.com/g/soc.culture.bulgaria/c/FH8TSyP2k4o/m/vLdlIG4JJkQJ
 2002 година
 пише от talev@attglobal.net
@@ -60,7 +61,8 @@ ta...@ibm.net
 Говори се за шривтове от windows, за кодови таблици, размери на шривтове, Open type, truetype, провлеми при word 9, Fontographer 4.x, брой символи в шривт. 
 Инересен е персонаж Емил Петков, който подлага знанията и уменипта на Ilya Talev:
 
-Post----------------------------------------------------------------------
+Копиран пост
+----------------------------------------------------------------------
 Javno", Bai Ilya, rabotata ne e vyv fontographera, ne e i v tova po kolko
 simvola v koi shrift ima, ne e i v tova hudozhnik li si, shriftorezbar, ili
 agitator, a v tova, che, nezatormozen ot niakoi neobhodimi znania,
@@ -76,16 +78,19 @@ si s nego, no ne ni zanimavai s tezi prashtulki. Edno e da citirash
 bylgarskata presa, drugo e da se opitvash da generirash sam shriftorezbarski
 folk-theories (kato teoriite na Xpucmo za bylgarskia ezik).
 
-E.P.
+### E.P.
+
 -----------------------------------------------------------------------------
 
 
-##Име на темата: HaHaHa! - smeya se i az...
+## Име на темата: HaHaHa! - smeya se i az...
 Връзка: https://groups.google.com/g/soc.culture.bulgaria/c/qEX9sfL1zvg/
 
 
-##Some Interesting posts
-Posts------------------------------------------------------------------------
+### Some Interesting posts
+
+Копиран пост
+------------------------------------------------------------------------
 Ilya Talev's profile photo
 Ilya Talev
 Mar 5, 2000, 10:00:00 AM
@@ -151,8 +156,9 @@ trjabvat sluchajno Adobe True Type 1 fontove, prati mi
 syotvetnija si ttf font i she ti izpratja postscriptnite
 mu formati.
 
-IT
+###IT
 -----------------------------------------------------------------------------------
+
 Ilya Talev
 Mar 5, 2000, 10:00:00 AM
 to
@@ -219,8 +225,11 @@ Pochti polovinata ot tjah imat istinski "Italic",
 ne prosto naklonen 15 gradusa normalen font,
 kakto i Bold/Bold Italic.
 
-IT
+### IT
+
 --------------------------------------------------------------------
+
+
 Emil S. Petkov's profile photo
 Emil S. Petkov
 Mar 5, 2000, 10:00:00 AM
