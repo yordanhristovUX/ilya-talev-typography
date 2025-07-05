@@ -6,7 +6,8 @@
 Йордан Христов  
 UX/UI дизайнер и изследовател  
 
-[https://culturen.design/](https://culturen.design/)
-[yhristov.xyz@gmail.com](mailto:yhristov.xyz@gmail.com)
+Website: [https://culturen.design/](https://culturen.design/)
+
+Email: [yhristov.xyz@gmail.com](mailto:yhristov.xyz@gmail.com)
 
 Проучването е направено с помощта на архивни източници, форуми и комуникация със семейството на Илия Талев.
